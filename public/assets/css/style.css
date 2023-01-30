@@ -1,0 +1,67 @@
+.pagination .active .page-link,
+.page-link:hover,
+.page-item:hover{
+	background-color: #5dd2bc !important;
+    border-color: #5dd2bc !important;
+}
+
+
+/* Checkbox */
+.custom-control-label::before{
+	border: 1px solid #d5dde6 !important;
+}
+
+.lead-icon{
+	font-size: 14px;
+}
+
+.avatar img{
+	width: 40px;
+}
+
+
+/** Edit **/
+.edit-section{
+	display: none;
+}
+
+/** Replay **/
+.replay-section{
+	display:none;
+}
+
+
+.preview-list{
+	list-style: none;
+}
+
+
+/** Summarnote **/
+#note-form{
+	display: none;
+}
+
+
+/** Full Calendar **/
+.fc-theme-standard td, .fc-theme-standard th,
+.fc-theme-standard .fc-scrollgrid {
+    border: 1px solid #434B56 !important;
+    border: 1px solid #434B56 !important;
+}
+.fc .fc-daygrid-day-top {
+    display: inline-block;
+    float: right !important;
+    height: 30px !important;
+    width: 30px !important;
+    text-align: center !important;
+    line-height: 30px !important;
+    background-color: #323a46 !important;
+    border-radius: 50% !important;
+    margin: 10px !important;
+    padding: 0 !important;
+    font-size: 12px !important;
+}
+.fc .fc-daygrid-day.fc-day-today {
+    background-color: #434B56 !important;
+    background-color: #434B56 !important;
+}

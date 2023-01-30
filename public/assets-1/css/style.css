@@ -1,0 +1,22 @@
+.pagination .active .page-link,
+.page-link:hover,
+.page-item:hover{
+	background-color: #5dd2bc !important;
+    border-color: #5dd2bc !important;
+}
+
+
+/* Checkbox */
+.custom-control-label::before{
+	border: 1px solid #d5dde6 !important;
+}
+
+/* Filter Form **/
+.filter-form{
+	display: none;
+}
+
+
+.lead-icon{
+	font-size: 14px;
+}
